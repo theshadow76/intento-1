@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    background-color: #1c1e33;
+}
+.Login{
+    background-color: #25273e;
+    position: absolute;
+    top: 13%;
+    left: 17%;
+    width: 460px;
+    height: 650px;
+}
+.Register{
+    background-color: #25273e;
+    position: absolute;
+    top: 13%;
+    left: 53%;
+    width: 460px;
+    height: 650px;
+}
+.h1-Login-LogIn{
+    position: absolute;
+    top: 8%;
+    left: 7%;
+    color: white;
+}
+.Login-div-input-mail{
+    position: absolute;
+    top: 22%;
+    left: 12%;
+    width: 75%;
+    height: 43px;
+    background-color: transparent;
+    border-radius: 24px;
+    border-color: #85345d;
+    border-width: 1px;
+    border-style: solid;
+}

@@ -1,0 +1,189 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-color: #eeeeee;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+html{
+    background-color: whitesmoke;
+    color: white;
+}
+.panel-one{
+    background-color: #f5f5f5;
+    width: 100%;
+    height: 8%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.panel-two{
+    background-color: #003458;
+    width: 10%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.panel-three{
+    background-color: #468fc7;
+    width: 19%;
+    height: 8%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.ShadowTaskManager{
+    position: absolute;
+    top: 6%;
+    left: 2%;
+    color: white;
+}
+.search-engine-div-one{
+    width: 68%;
+    height: 7%;
+    position: absolute;
+    top: 17%;
+    left: 19%;
+    background-color: white;
+    border-radius: 24px;
+    border-color: #212121;
+    border-style: solid;
+    border-width: 1px;
+}
+.searc-engine-h3-one{
+    position: absolute;
+    top: 30%;
+    left: 43%;
+    color: black;
+}
+.inp-search-engine{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-color: transparent;
+    border: transparent;
+    z-index: -1;
+}
+.View-All{
+    position: absolute;
+    top: 28%;
+    left: 23%;
+    width: 90px;    
+    height: 45px;
+    background-color: #468fc7;
+    border-radius: 18px;
+}
+.Deleted{
+    position: absolute;
+    top: 28%;
+    left: 29%;
+    width: 90px;    
+    height: 45px;
+    background-color: #468fc7;
+    border-radius: 18px;
+}
+.Active{
+    position: absolute;
+    top: 28%;
+    left: 35%;
+    width: 90px;    
+    height: 45px;
+    background-color: #468fc7;
+    border-radius: 18px;
+}
+.Create{
+    position: absolute;
+    top: 28%;
+    right: 15%;
+    width: 90px;    
+    height: 45px;
+    background-color: #468fc7;
+    border-radius: 18px;
+}
+.View-All-h3{
+    position: absolute;
+    top: 28%;
+    left: 12%;
+}
+.Deleted-h3{
+    position: absolute;
+    top: 28%;
+    left: 12%;
+}
+.Active-h3{
+    position: absolute;
+    top: 28%;
+    left: 12%;
+}
+.Create-h3{
+    position: absolute;
+    top: 28%;
+    left: 12%;
+}
+.tasks-container{
+    position: absolute;
+    top: 39%;
+    left: 17%;
+    width: 78%;
+    height: 7%;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    background-color: white;
+}
+.tasks-container-description{
+    position: absolute;
+    top: 25%;
+    left: 12%;
+    color: black;
+}
+.tasks-container-name{
+    position: absolute;
+    top: 25%;
+    right: 12%;
+    color: black;
+}
+.tasks-naimer{
+    position: absolute;
+    bottom: 3%;
+    right: 3%;
+    width: 13%;
+    height: 17%;
+    background-color: #212121;
+    opacity: .2;
+}
+#inp-txt-tasks-name{
+    position: absolute;
+    bottom: 13%;
+    right: 5%;
+    background-color: black;
+    color: white;
+}   
+#inp-txt-tasks-descripcion{
+    position: absolute;
+    bottom: 9%;
+    right: 5%;
+    background-color: black;
+    color: white;
+}
+#aprove-tasks-naimer{
+    position: absolute;
+    bottom: 5%;
+    right: 6.5%;
+    font-size: 24px;
+}
+.h3-account{
+    position: absolute;
+    top: 30%;
+    right: 7%;
+    color: black;
+}
